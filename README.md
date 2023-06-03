@@ -1,4 +1,4 @@
-# LangChain AutoGPT PDF Question Bot Streamlit App
+# OpenAI LangChain Single PDF Question Bot Streamlit Web App
 This code is a streamlit web application utilizing Langchain and the OpenAI API, that allows users to upload a PDF file and ask questions about its content. It extracts the text from the PDF, splits it into smaller chunks, creates embeddings for the chunks, and builds a knowledge base. Users can then input a question, and the code uses a question-answering model to find relevant answers from the PDF content. 
 
 ### Note
